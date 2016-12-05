@@ -9,5 +9,7 @@ public class MainAPP extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.app_main);
+
+        // Teste para push
     }
 }
